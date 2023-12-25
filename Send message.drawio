@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T15:06:06.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="TSOW1l7ujIKh3hgGcKE0" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T15:08:07.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="gvQyBZqUjvtOMpATJ50W" version="22.1.11" type="github">
   <diagram name="Trang-1" id="V2zDvf2DyuTqOgUaVIsy">
     <mxGraphModel dx="967" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="1z7uK4IZx8Huaa8O23BU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1z7uK4IZx8Huaa8O23BU-2" target="1z7uK4IZx8Huaa8O23BU-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1z7uK4IZx8Huaa8O23BU-2" value="Set the subscribe packet: Topic, Message length, Quality of Service, Retain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1z7uK4IZx8Huaa8O23BU-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Set the subscribe packet: Topic, Message length, Quality of Service, Retain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="560" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="g7Popo2GayXCr6Dp2pQ1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1z7uK4IZx8Huaa8O23BU-4" target="g7Popo2GayXCr6Dp2pQ1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1z7uK4IZx8Huaa8O23BU-4" value="Send the message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="580" width="120" height="80" as="geometry" />
+        <mxCell id="1z7uK4IZx8Huaa8O23BU-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send the message&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="560" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1z7uK4IZx8Huaa8O23BU-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,14 +44,14 @@
             <mxPoint x="-20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-3" value="Receive the Puback message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Module NB IoT&lt;br&gt;receive the Puback message&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="710" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="g7Popo2GayXCr6Dp2pQ1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7Popo2GayXCr6Dp2pQ1-4" target="g7Popo2GayXCr6Dp2pQ1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-4" value="Sever receive the message and send Puback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="730" width="120" height="80" as="geometry" />
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sever receive the message and send Puback&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="g7Popo2GayXCr6Dp2pQ1-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1z7uK4IZx8Huaa8O23BU-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
