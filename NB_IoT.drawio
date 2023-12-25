@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T06:43:26.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2cRCxTU5o8YlfTv4QbOF" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T14:58:40.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="uKjX7Lxw8ucy9HidoZJ6" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1508" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -116,25 +116,25 @@
         <mxCell id="FNJguRmYHS2o4BD0xWOH-5" value="Send the message" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQSywWpRJvFAfldPba9E-0" target="uQSywWpRJvFAfldPba9E-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQSywWpRJvFAfldPba9E-0" target="uQSywWpRJvFAfldPba9E-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-0" value="Set the subscribe packet: Topic, Message length, Quality of Service, Retain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-0" value="Set the subscribe packet: Topic, Message length, Quality of Service, Retain" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="960" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQSywWpRJvFAfldPba9E-1" target="uQSywWpRJvFAfldPba9E-3">
+        <mxCell id="uQSywWpRJvFAfldPba9E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQSywWpRJvFAfldPba9E-1" target="uQSywWpRJvFAfldPba9E-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-1" value="Send the message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-1" value="Send the message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="960" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQSywWpRJvFAfldPba9E-3" target="uQSywWpRJvFAfldPba9E-6">
+        <mxCell id="uQSywWpRJvFAfldPba9E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQSywWpRJvFAfldPba9E-3" target="uQSywWpRJvFAfldPba9E-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-3" value="Receive the Puback message" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-3" value="Receive the Puback message" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-5" value="Latency" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQSywWpRJvFAfldPba9E-3" target="uQSywWpRJvFAfldPba9E-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-5" value="Latency" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="1160" as="sourcePoint" />
             <mxPoint x="520" y="1000" as="targetPoint" />
@@ -145,10 +145,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-6" value="End of sending message" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-6" value="End of sending message" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="1240" as="sourcePoint" />
             <mxPoint x="560" y="1240" as="targetPoint" />
@@ -159,17 +159,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Send message process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Send message process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="890" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-12" value="Set the timer" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-12" value="Set the timer" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="uQSywWpRJvFAfldPba9E-1">
           <mxGeometry x="-1" y="-20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="1000" as="sourcePoint" />
             <mxPoint x="520" y="1000" as="targetPoint" />
             <mxPoint x="20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uQSywWpRJvFAfldPba9E-13" value="End the timer" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uQSywWpRJvFAfldPba9E-13" value="End the timer" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="uQSywWpRJvFAfldPba9E-3">
           <mxGeometry x="-1" y="-20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="1159.57" as="sourcePoint" />
             <mxPoint x="520" y="1159.57" as="targetPoint" />
