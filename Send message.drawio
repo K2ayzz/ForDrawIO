@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T15:08:52.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="gKPeWQB7Gp3fBNI0JiNq" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T01:15:42.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="O0tXBsOlkrGN4jyAfVdi" version="22.1.15" type="github">
   <diagram name="Trang-1" id="V2zDvf2DyuTqOgUaVIsy">
-    <mxGraphModel dx="967" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="1z7uK4IZx8Huaa8O23BU-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Set the subscribe packet: Topic, Message length, Quality of Service, Retain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="560" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1z7uK4IZx8Huaa8O23BU-4" target="g7Popo2GayXCr6Dp2pQ1-4">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1z7uK4IZx8Huaa8O23BU-4" target="g7Popo2GayXCr6Dp2pQ1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1z7uK4IZx8Huaa8O23BU-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send the message&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -44,28 +44,28 @@
             <mxPoint x="-20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Module NB IoT&lt;br&gt;receive the Puback message&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Module NB IoT&lt;br&gt;receive the Puback message&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="710" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7Popo2GayXCr6Dp2pQ1-4" target="g7Popo2GayXCr6Dp2pQ1-3">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g7Popo2GayXCr6Dp2pQ1-4" target="g7Popo2GayXCr6Dp2pQ1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sever receive the message and send Puback&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sever receive the message and send Puback&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="710" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1z7uK4IZx8Huaa8O23BU-2">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="1z7uK4IZx8Huaa8O23BU-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="620" as="sourcePoint" />
             <mxPoint x="340" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7Popo2GayXCr6Dp2pQ1-3">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="g7Popo2GayXCr6Dp2pQ1-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="710" as="sourcePoint" />
             <mxPoint x="80" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7Popo2GayXCr6Dp2pQ1-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Latency&lt;/font&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="g7Popo2GayXCr6Dp2pQ1-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2*Latency&lt;/font&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.125" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="900" as="sourcePoint" />
             <mxPoint x="650" y="630" as="targetPoint" />
