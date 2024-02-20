@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T04:16:57.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="IGfqNw0TZn5-ywexDJXJ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T04:20:59.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="xhDsChlZJ_9i3L-xXapW" version="22.1.18" type="github">
   <diagram name="Trang-1" id="wszEbrUYoofNr2Puhn1D">
     <mxGraphModel dx="1042" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,28 @@
         <mxCell id="zZHvQ5DF7Thb-Ciblgxm-13" value="UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#00FFFF;" vertex="1" connectable="0" parent="zZHvQ5DF7Thb-Ciblgxm-12">
           <mxGeometry x="0.076" y="-1" relative="1" as="geometry">
             <mxPoint x="-4" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZHvQ5DF7Thb-Ciblgxm-15" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#00FFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZHvQ5DF7Thb-Ciblgxm-17" value="Data line" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="zZHvQ5DF7Thb-Ciblgxm-15">
+          <mxGeometry x="0.445" y="2" relative="1" as="geometry">
+            <mxPoint x="62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZHvQ5DF7Thb-Ciblgxm-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZHvQ5DF7Thb-Ciblgxm-18" value="Power line" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="zZHvQ5DF7Thb-Ciblgxm-16">
+          <mxGeometry x="0.37" y="3" relative="1" as="geometry">
+            <mxPoint x="65" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
