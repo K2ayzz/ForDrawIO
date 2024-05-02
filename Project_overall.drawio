@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T02:21:57.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="YlyVEjVJdTwe5to6Vt0Y" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T02:22:28.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="OrqPkIn4QngDlQ4jA6HX" version="24.2.3" type="github">
   <diagram name="Trang-1" id="wszEbrUYoofNr2Puhn1D">
     <mxGraphModel dx="1042" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
             <mxPoint x="264" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pGBGi0vny768YRediHE3-17" value="+5V, +4V2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eQCYtkuC7nbkRMiBcqjl-5" vertex="1" connectable="0">
+        <mxCell id="pGBGi0vny768YRediHE3-17" value="+5V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eQCYtkuC7nbkRMiBcqjl-5" vertex="1" connectable="0">
           <mxGeometry x="0.3793" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -35,7 +35,7 @@
             <mxPoint x="284" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHp14SFNo4yfRmHItonF-1" value="+4V2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zZHvQ5DF7Thb-Ciblgxm-5" vertex="1" connectable="0">
+        <mxCell id="HHp14SFNo4yfRmHItonF-1" value="5V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zZHvQ5DF7Thb-Ciblgxm-5" vertex="1" connectable="0">
           <mxGeometry x="0.3525" y="-4" relative="1" as="geometry">
             <mxPoint x="-4" y="18" as="offset" />
           </mxGeometry>
