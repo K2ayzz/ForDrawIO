@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T02:22:28.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="OrqPkIn4QngDlQ4jA6HX" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T02:22:53.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="iL-A5tRCsjFw2ub-YdFB" version="24.2.3" type="github">
   <diagram name="Trang-1" id="wszEbrUYoofNr2Puhn1D">
     <mxGraphModel dx="1042" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="eQCYtkuC7nbkRMiBcqjl-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Methane Sensor&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="204" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eQCYtkuC7nbkRMiBcqjl-6" value="Process Block&lt;br style=&quot;font-size: 11px;&quot;&gt;STM32L432KC" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="eQCYtkuC7nbkRMiBcqjl-6" value="Process Block&lt;br style=&quot;font-size: 11px;&quot;&gt;STM32L431CCT6" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="454" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eQCYtkuC7nbkRMiBcqjl-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Communication Block&lt;br&gt;NB-IoT SIM7070G&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -138,16 +138,6 @@
         </mxCell>
         <mxCell id="fLJ2LabwMMYea7qssGbv-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;Hydrogen Sulfide Sensor&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="54" y="140" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fLJ2LabwMMYea7qssGbv-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Storage&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="454" y="140" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fLJ2LabwMMYea7qssGbv-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#00FFFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eQCYtkuC7nbkRMiBcqjl-6" target="fLJ2LabwMMYea7qssGbv-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="434" y="430" as="sourcePoint" />
-            <mxPoint x="440" y="330" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
