@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T02:20:18.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="p4qJq3BC9jzXpBRY_PfS" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T02:35:15.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Of5pHqGuFS6yRHUp2kdX" version="24.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1042" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -111,6 +111,9 @@
         <mxCell id="Lccmce1p1J8kvSE-5Li8-14" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-2" target="Lccmce1p1J8kvSE-5Li8-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lccmce1p1J8kvSE-5Li8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-2" target="Lccmce1p1J8kvSE-5Li8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lccmce1p1J8kvSE-5Li8-2" value="Battery Voltage &amp;gt;7V" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="800" width="160" height="80" as="geometry" />
         </mxCell>
@@ -130,8 +133,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="740" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="1060" />
-              <mxPoint x="60" y="740" />
+              <mxPoint x="80" y="1140" />
+              <mxPoint x="80" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -145,10 +148,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lccmce1p1J8kvSE-5Li8-15" value="Measure TVOC, Methane and H2S" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1200" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lccmce1p1J8kvSE-5Li8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Lccmce1p1J8kvSE-5Li8-18" value="Send message to Cloud" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1280" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lccmce1p1J8kvSE-5Li8-25" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-21" target="Lccmce1p1J8kvSE-5Li8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lccmce1p1J8kvSE-5Li8-26" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-21" target="Lccmce1p1J8kvSE-5Li8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lccmce1p1J8kvSE-5Li8-21" value="Check NB-IoT connectionn" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lccmce1p1J8kvSE-5Li8-23" value="Sleep NB-IoT" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
