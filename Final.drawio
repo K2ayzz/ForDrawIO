@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T02:37:18.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="rmgf0KAGp-6DJNQO66c_" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T02:37:54.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="HngJcw_bpkNNMEx8slsM" version="24.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1303" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lccmce1p1J8kvSE-5Li8-3" value="Sleep MCU" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lccmce1p1J8kvSE-5Li8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-8" target="Lccmce1p1J8kvSE-5Li8-10">
           <mxGeometry relative="1" as="geometry" />
@@ -150,13 +150,8 @@
         <mxCell id="Lccmce1p1J8kvSE-5Li8-15" value="Measure TVOC, Methane and H2S" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lccmce1p1J8kvSE-5Li8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="740" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Lccmce1p1J8kvSE-5Li8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lccmce1p1J8kvSE-5Li8-18" target="Lccmce1p1J8kvSE-5Li8-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lccmce1p1J8kvSE-5Li8-18" value="Send message to Cloud" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="1120" width="120" height="40" as="geometry" />
@@ -174,7 +169,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lccmce1p1J8kvSE-5Li8-23" value="Sleep NB-IoT" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
