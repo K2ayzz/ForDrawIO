@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T21:11:57.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.5" etag="hmQLIlzcqAIcy49Hif8C" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T21:13:46.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vPjpb5KF4vrbg_lJfUod" version="24.6.5" type="github">
   <diagram name="Trang-1" id="THIX3k6S1r3QgsSHuFTV">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-VVIU8Av3OlcTsr4712I-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VVIU8Av3OlcTsr4712I-1" target="-VVIU8Av3OlcTsr4712I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VVIU8Av3OlcTsr4712I-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/battery-half-energy-charge-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="256" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="-VVIU8Av3OlcTsr4712I-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-VVIU8Av3OlcTsr4712I-2" target="-VVIU8Av3OlcTsr4712I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VVIU8Av3OlcTsr4712I-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/133_Solar_Panel_Energy_technology_smart_city_technology_smart-128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="256" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="-VVIU8Av3OlcTsr4712I-3" value="Battery Charger LTC4162" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
