@@ -176,19 +176,19 @@
         <mxCell id="KDMx-ezY_uqjDw8tYnH9-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;POWER SOURCE BLOCK&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="520" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KDMx-ezY_uqjDw8tYnH9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDMx-ezY_uqjDw8tYnH9-4" target="KDMx-ezY_uqjDw8tYnH9-5">
+        <mxCell id="KDMx-ezY_uqjDw8tYnH9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" source="KDMx-ezY_uqjDw8tYnH9-4" target="KDMx-ezY_uqjDw8tYnH9-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDMx-ezY_uqjDw8tYnH9-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Battery Li-Ion&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="200" y="600" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KDMx-ezY_uqjDw8tYnH9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KDMx-ezY_uqjDw8tYnH9-5" target="KDMx-ezY_uqjDw8tYnH9-40">
+        <mxCell id="KDMx-ezY_uqjDw8tYnH9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;" edge="1" parent="1" source="KDMx-ezY_uqjDw8tYnH9-5" target="KDMx-ezY_uqjDw8tYnH9-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDMx-ezY_uqjDw8tYnH9-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Battery Management&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;bBwhuPaT6GNZoeY06O2n&quot;&gt;LTC4162&lt;/font&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KDMx-ezY_uqjDw8tYnH9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KDMx-ezY_uqjDw8tYnH9-1">
+        <mxCell id="KDMx-ezY_uqjDw8tYnH9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" source="KDMx-ezY_uqjDw8tYnH9-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="720" as="targetPoint" />
             <Array as="points">
@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KDMx-ezY_uqjDw8tYnH9-39" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="60" y="560" width="250" height="400" as="geometry" />
+          <mxGeometry x="250" y="940" width="250" height="400" as="geometry" />
         </mxCell>
         <mxCell id="KDMx-ezY_uqjDw8tYnH9-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Temperature and Humidity Sensor DHT22&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="160" height="80" as="geometry" />
